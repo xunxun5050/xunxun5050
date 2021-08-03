@@ -11,6 +11,7 @@
 <br>
 
 ## What I Can Do??
+
 <div align="left">
   <img src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=black" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=black"/>
@@ -21,7 +22,7 @@
   <img src="http://img.shields.io/badge/-springboot-6DB33F?style=flat&logo=springboot&logoColor=black" />
    <img src="http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black" />
    <img src="http://img.shields.io/badge/-Oracle-F80000?style=flat&logo=Oracle&logoColor=black" />
-  <img src="http://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+  <img src="http://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=black" />
 </div>  
 
 ### Things I've used at least once
