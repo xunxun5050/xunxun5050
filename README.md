@@ -1,6 +1,6 @@
 ## :briefcase: Brief Reading => JangHunKim
 
-* Back-end developer (wish to be)
+* :back:-:end: developer (wish to be)
 * Can find me at Bundang, Korea
 * Good Communicator
 * Open-minded listener
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-### What I Can Do??
+### What I Can Do?? :bulb:
 
 <div align="left">
   <img src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=black" />
@@ -25,7 +25,10 @@
   <img src="http://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=black" />
 </div>  
 
-### Things I've used at least once
+<br>
+<br>
+
+### Things I've used at least once :candle:
 
 <div>
  <img src="http://img.shields.io/badge/-MySQl-4479A1?style=flat&logo=MySQl&logoColor=white" />
