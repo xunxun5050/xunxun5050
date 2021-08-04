@@ -1,4 +1,4 @@
-# :briefcase: Brief Reading => JangHunKim
+## :briefcase: Brief Reading => JangHunKim
 
 * Back-end developer (wish to be)
 * Can find me at Bundang, Korea
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## What I Can Do??
+### What I Can Do??
 
 <div align="left">
   <img src="http://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=black" />
