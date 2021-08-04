@@ -1,10 +1,10 @@
 ## :briefcase: Brief Reading => JangHunKim
 <br>
-* :back:-:end: developer (wish to be)
-* Can find me at Bundang, Korea
-* Good Communicator
-* Open-minded listener
-* :warning: Talkative :warning: 
+* :back:-:end: developer (wish to be)<br>
+* Can find me at Bundang, Korea<br>
+* Good Communicator<br>
+* Open-minded listener<br>
+* :warning: Talkative :warning: <br>
 * Would You Like Some :coffee::coffee: ??
 
 <br>
